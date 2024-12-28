@@ -1,0 +1,11 @@
+.inputText{
+    background-color: #454545;
+    width: 400px;
+    text-align: end;
+    height: 60px;
+    line-height: 60px;
+    color: white;
+    font-size: 35px;
+    padding-right: 10px;
+    border-radius: 5px 5px 0 0;
+}
